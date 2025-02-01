@@ -65,7 +65,7 @@ Follow these steps:
     ```python
     ["function_name"]
     ```
-    <br></br>
+
     ---**Example for a tool that takes user input**---
 
     On the `select_tool.py` you put: ["vocal_note"]
