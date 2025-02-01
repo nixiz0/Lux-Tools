@@ -56,12 +56,14 @@ Follow these steps:
     - For response tools, place your scripts in the `tools_response` folder.
 
 5. **(if needed) Create `select_tool.py`:**
-    - If your tool needs to take user input as a parameter, create a `select_tool.py` file listing the names of the functions that require user input.
+    If your tool needs to take user input as a parameter, create a `select_tool.py` file listing the names of the functions that require user input.
+
     ```python
     ["function_name"]
     ```
+    <br></br>
+    ---**Example for a tool that takes user input**---
 
-    ---*Example for a tool that takes user input*---
     On the `select_tool.py` you put: ["vocal_note"]
 
     On the `tools_list.py` you put:
