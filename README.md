@@ -5,7 +5,7 @@ Welcome to the official repository for Lux assistant tools. Here, you will find 
 
 ## Installation of Tools on Lux
 
-You just need to download the tool ZIP File you want.
+You just need to download the tool ZIP File you want, go on the configuration page on your *Lux-Interface* and import the ZIP files you want to use.
 
 
 ## [For Developers] How to Create a Tool for Lux
@@ -44,7 +44,7 @@ Follow these steps:
 3. **Create `menu.py`:**
 
     Define a dictionary containing the global description of your tool. This will be used to activate and access your tool.
-    
+
     ```python
     {
         "name": "name of your tool",
