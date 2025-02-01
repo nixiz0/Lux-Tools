@@ -1,4 +1,4 @@
-# Lux Official Tools
+# Lux Community Tools
 
 Welcome to the Open Source community repository for Lux assistant tools. Here, you will find a collection of community tools designed to integrate seamlessly with the Lux assistant.
 
