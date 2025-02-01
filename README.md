@@ -42,7 +42,9 @@ Follow these steps:
     ```
 
 3. **Create `menu.py`:**
-    - Define a dictionary containing the global description of your tool. This will be used to activate and access your tool.
+
+    Define a dictionary containing the global description of your tool. This will be used to activate and access your tool.
+    
     ```python
     {
         "name": "name of your tool",
