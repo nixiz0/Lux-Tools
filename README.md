@@ -13,6 +13,7 @@ You just need to download the tool ZIP File you want.
 Follow these steps:
 
 1. **Create `tools_list.py`:**
+
     This is where you will put your function(s) of your tool as well as the description(s) which will enable you to trigger the tool via the similarity between the user prompt and your description(s).
 
     ```python
@@ -56,6 +57,7 @@ Follow these steps:
     - For response tools, place your scripts in the `tools_response` folder.
 
 5. **(if needed) Create `select_tool.py`:**
+
     If your tool needs to take user input as a parameter, create a `select_tool.py` file listing the names of the functions that require user input.
 
     ```python
